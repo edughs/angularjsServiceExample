@@ -1,6 +1,7 @@
 # angularjsServiceExample
-An example of a service in AngularJS. 
+An example of a http service in AngularJS. 
 Built with HTML5, CSS3, Bootstrap and AngularJS.
+Data is provided by ComicVine API : http://comicvine.gamespot.com/api/ .
 You need to enable CORS to test this example.
 
 ![screenshot_angularjs](https://cloud.githubusercontent.com/assets/15845482/19024954/6ba1eff4-8910-11e6-8627-4d7fbfb7848b.png)
